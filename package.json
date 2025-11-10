@@ -14,13 +14,15 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@tldraw/sync": "^4.1.2",
     "classnames": "^2.5.1",
     "next": "^14.1.0",
     "next-seo": "^6.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "styled-jsx-plugin-postcss": "^4.0.1",
-    "tldraw": "^4.1.2"
+    "tldraw": "^4.1.2",
+    "yjs": "^13.6.27"
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^14.1.0",

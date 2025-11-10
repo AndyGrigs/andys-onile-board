@@ -95,8 +95,12 @@ const Index = () => {
                 Доступ по посиланню
               </li>
               <li className="flex items-center gap-2">
-                <span className="text-blue-500">⏳</span>
-                Real-time співпраця (скоро)
+                <span className="text-green-500">✓</span>
+                Real-time співпраця
+              </li>
+              <li className="flex items-center gap-2">
+                <span className="text-green-500">✓</span>
+                Багато користувачів одночасно
               </li>
             </ul>
           </div>
