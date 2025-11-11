@@ -29,7 +29,7 @@ const Index = () => {
         <div className="w-full max-w-md space-y-8 rounded-2xl bg-white p-8 shadow-xl">
           <div className="text-center">
             <h1 className="mb-2 text-4xl font-bold text-gray-900">
-              🎨 Whiteboard
+              🎨 AndyGrygs - Whiteboard
             </h1>
             <p className="text-gray-600">
               Онлайн дошка для малювання та співпраці
